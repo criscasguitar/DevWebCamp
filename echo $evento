@@ -1,0 +1,2 @@
+
+<?php echo ($evento->categoria_id === $categoria_id) ? 'selected' : '' ?>
